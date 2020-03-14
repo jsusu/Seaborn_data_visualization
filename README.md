@@ -4,6 +4,8 @@ just for learning
 
 
 目录：
+
+
   1 介绍了五种主题风格：darkgrid,whitegrid,dark,white,ticks
   
   2 调色板
